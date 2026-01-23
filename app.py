@@ -1,1 +1,2 @@
-dildo = input('what is terns name') 
+dildo = input('what is terns name: ') 
+print(dildo)
