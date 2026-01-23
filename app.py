@@ -1,1 +1,1 @@
-dildo = input('what is terns age') 
+dildo = input('what is terns name') 
