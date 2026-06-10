@@ -47,3 +47,4 @@ print("Totale renter betalt:", round(total_interest, 2), "kr")
 
 
 
+# actually this isn't correct because it 
